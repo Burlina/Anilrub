@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T21:56:04.713Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="88xt1gIsD3E5x9bg0AFX" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-31T22:47:37.307Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="cYYLeXIhG6XsEciJBL1J" version="21.7.1" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="960" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5L_zXAQ-VUQSyit91DCZ-10" value="API (Chat)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=50;" vertex="1" parent="1">
-          <mxGeometry x="240" y="80" width="130" height="510" as="geometry" />
+          <mxGeometry x="240" y="80" width="130" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5L_zXAQ-VUQSyit91DCZ-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="5L_zXAQ-VUQSyit91DCZ-10">
           <mxGeometry x="60" y="105" width="10" height="45" as="geometry" />
@@ -14,16 +14,16 @@
           <mxGeometry x="60" y="170" width="10" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5L_zXAQ-VUQSyit91DCZ-11" value="Servidor" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=50;" vertex="1" parent="1">
-          <mxGeometry x="430" y="80" width="130" height="510" as="geometry" />
+          <mxGeometry x="430" y="80" width="130" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5L_zXAQ-VUQSyit91DCZ-27" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="5L_zXAQ-VUQSyit91DCZ-11">
           <mxGeometry x="60" y="200" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5L_zXAQ-VUQSyit91DCZ-13" value="Comprador" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=90;" vertex="1" parent="1">
-          <mxGeometry x="120" y="70" width="50" height="520" as="geometry" />
+          <mxGeometry x="120" y="70" width="50" height="360" as="geometry" />
         </mxCell>
         <mxCell id="5L_zXAQ-VUQSyit91DCZ-14" value="Revendedor" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=90;" vertex="1" parent="1">
-          <mxGeometry x="650" y="70" width="50" height="520" as="geometry" />
+          <mxGeometry x="650" y="70" width="50" height="360" as="geometry" />
         </mxCell>
         <mxCell id="5L_zXAQ-VUQSyit91DCZ-20" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="5L_zXAQ-VUQSyit91DCZ-14">
           <mxGeometry x="20" y="130" width="10" height="70" as="geometry" />
